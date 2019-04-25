@@ -1,1 +1,1 @@
-# javassist
+# javassist-demo
